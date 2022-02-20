@@ -5,8 +5,8 @@ title = "Trove Package Index"
 # The homepage contents
 [extra]
 lead = '<b>TPI</b> is a package index for the DDS build system'
-url = "/docs/getting-started/introduction/"
-url_button = "/browse"
+url = "/browse/"
+url_button = "Browse"
 repo_version = "GitHub v0.1.0"
 repo_license = "Open-source MIT License."
 repo_url = "https://github.com/oraqlle/trovepi.dev"
