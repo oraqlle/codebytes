@@ -5,18 +5,8 @@
 
 A C++ package index for the DDS build system.
 
-## Usage
+Trove is a package index that I use to store packages I've created using the DDS build System. It's mostly for personal use but is a open source and freely accessible archive that allows anyone to quickly and easily add packages to their project. Most of the libraries I build are (will) be available there.
 
-### Install Script
+Have a look at the [Wiki](https://github.com/oraqlle/trove/wiki) for details. 
 
-Linux:
-
-- Download the `install.sh` and run from the command line with `sh install.sh`
-
-MacOS:
-
-- Download the `install-macos.sh` and run from the command line with `sh install-macos.sh`
-
-Windows:
-
-- Download the `install.bat` and run from Powershell with `bat install.bat`
+Package documentation comming soon.
