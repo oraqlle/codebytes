@@ -1,1 +1,0 @@
-git+https://github.com/cortexlib/iterators.git#0.4.1
