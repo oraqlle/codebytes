@@ -7,7 +7,7 @@
     "authors": [
       "Tyler Swann <oraqlle@github.com>"
     ],
-    "description": "A collection of libraries for containers, algorithms, iterators, utilities and more.\n",
+    "description": "A collection of libraries for containers, algorithms, iterators, utilities and more C++20.\n",
     "documentation": "https://github.com/oraqlle/cortexlib/tree/main/docs",
     "license": "MIT",
     "readme": "README.md",
