@@ -15,39 +15,6 @@
   },
   "libraries": [
     {
-      "name": "iterators",
-      "path": "libs/iterators",
-      "using": [],
-      "test-using": [],
-      "dependencies": [],
-      "test-dependencies": [
-        {
-          "name": "catch2",
-          "versions": [
-            {
-              "low": "2.13.9",
-              "high": "3.0.0"
-            }
-          ],
-          "using": [
-            "catch2"
-          ]
-        },
-        {
-          "name": "catch2",
-          "versions": [
-            {
-              "low": "2.13.9",
-              "high": "3.0.0"
-            }
-          ],
-          "using": [
-            "main"
-          ]
-        }
-      ]
-    },
-    {
       "name": "concepts",
       "path": "libs/concepts",
       "using": [],
@@ -63,9 +30,18 @@
             }
           ],
           "using": [
-            "catch2"
+            "main"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "iterators",
+      "path": "libs/iterators",
+      "using": [],
+      "test-using": [],
+      "dependencies": [],
+      "test-dependencies": [
         {
           "name": "catch2",
           "versions": [
@@ -84,24 +60,12 @@
       "name": "box",
       "path": "libs/box",
       "using": [
-        "iterators",
-        "concepts"
+        "concepts",
+        "iterators"
       ],
       "test-using": [],
       "dependencies": [],
       "test-dependencies": [
-        {
-          "name": "catch2",
-          "versions": [
-            {
-              "low": "2.13.9",
-              "high": "3.0.0"
-            }
-          ],
-          "using": [
-            "catch2"
-          ]
-        },
         {
           "name": "catch2",
           "versions": [
