@@ -1,0 +1,40 @@
+{
+  "name": "crank",
+  "version": "0.1.0",
+  "pkg-version": 1,
+  "extra": null,
+  "meta": {
+    "authors": [
+      "Tyler Swann <oraqlle@github.com>"
+    ],
+    "description": "A small runtime engine and framework.\n",
+    "documentation": "https://github.com/oraqlle/crank/tree/main/docs",
+    "license": "MIT",
+    "readme": "README.md",
+    "repository": "https://github.com/oraqlle/crank"
+  },
+  "libraries": [
+    {
+      "name": "crank",
+      "path": ".",
+      "using": [],
+      "test-using": [],
+      "dependencies": [],
+      "test-dependencies": [
+        {
+          "name": "catch2",
+          "versions": [
+            {
+              "low": "2.13.9",
+              "high": "3.0.0"
+            }
+          ],
+          "using": [
+            "main"
+          ]
+        }
+      ]
+    }
+  ],
+  "schema-version": 0
+}
