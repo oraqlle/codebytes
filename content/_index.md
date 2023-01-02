@@ -9,7 +9,7 @@ url = "/browse/"
 url_button = "Browse"
 repo_version = "GitHub v0.1.0"
 repo_license = "Open-source MIT License."
-repo_url = "https://github.com/oraqlle/trovepi.dev"
+repo_url = "https://github.com/oraqlle/trove"
 
 # Menu items
 [[extra.menu.main]]
