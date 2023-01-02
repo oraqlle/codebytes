@@ -1,10 +1,10 @@
 +++
-title = "Trove Package Index"
+title = "Trove"
 
 
 # The homepage contents
 [extra]
-lead = '<b>TPI</b> is a package index for the DDS build system'
+lead = '<b>Trove</b> a CRS is a packaging host for my personal C++ packages (using bpt), documentation host and blog site. (Under Construction at the moment).'
 url = "/browse/"
 url_button = "Browse"
 repo_version = "GitHub v0.1.0"

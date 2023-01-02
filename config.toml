@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://trovepi.dev"
-title = "TPI"
-description = "The Trove Package Index"
+title = "Trove"
+description = ""
 
 # The site theme to use.
 theme = "adidoks"
@@ -45,7 +45,7 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-author = "Aaran Xu"
+author = "Tyler"
 github = "https://github.com/oraqlle"
 twitter = "https://twitter.com/oraqlle"
 email = "tyler.swann05@gmail.com"
@@ -61,7 +61,7 @@ theme_color = "#fff"
 
 # More about site's title
 title_separator = "|"  # set as |, -, _, etc
-title_addition = "The package index for the DDS build system. "
+title_addition = ""
 
 
 # Set date format in blog publish metadata
@@ -95,7 +95,7 @@ og_locale = "en_US"
 type = "Organization"
 logo = "logo-doks.png"
 twitter = "https://twitter.com/oraqlle"
-linked_in = ""
+linked_in = "https://www.linkedin.com/in/tylerswann05/"
 github = "https://github.com/oraqlle"
 section = "blog" # see config.extra.main~url
 ## Sitelinks Search Box
