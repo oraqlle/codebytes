@@ -1,0 +1,23 @@
+{
+  "name": "googlebenchmark",
+  "version": "1.7.1",
+  "pkg-version": 1,
+  "extra": null,
+  "meta": {
+    "description": "A microbenchmark support library\n",
+    "license": "Apache-2.0",
+    "readme": "README.md",
+    "repository": "https://github.com/google/benchmark"
+  },
+  "libraries": [
+    {
+      "name": "googlebenchmark",
+      "path": ".",
+      "using": [],
+      "test-using": [],
+      "dependencies": [],
+      "test-dependencies": []
+    }
+  ],
+  "schema-version": 0
+}
