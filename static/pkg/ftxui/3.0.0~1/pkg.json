@@ -1,0 +1,53 @@
+{
+  "name": "ftxui",
+  "version": "3.0.0",
+  "pkg-version": 1,
+  "extra": null,
+  "meta": {
+    "authors": [
+      "Arthur Sonzogni <>"
+    ],
+    "description": "💻 C++ Functional Terminal User Interface. ❤️\n",
+    "documentation": "https://arthursonzogni.github.io/FTXUI/",
+    "license": "MIT",
+    "readme": "README.md",
+    "repository": "https://github.com/ArthurSonzogni/FTXUI"
+  },
+  "libraries": [
+    {
+      "name": "ftxui",
+      "path": ".",
+      "using": [],
+      "test-using": [],
+      "dependencies": [
+        {
+          "name": "googletest",
+          "versions": [
+            {
+              "low": "1.12.1",
+              "high": "2.0.0"
+            }
+          ],
+          "using": [
+            "googletest",
+            "googlemock"
+          ]
+        },
+        {
+          "name": "googlebenchmark",
+          "versions": [
+            {
+              "low": "1.7.1",
+              "high": "2.0.0"
+            }
+          ],
+          "using": [
+            "googlebenchmark"
+          ]
+        }
+      ],
+      "test-dependencies": []
+    }
+  ],
+  "schema-version": 0
+}
