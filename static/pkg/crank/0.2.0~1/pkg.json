@@ -1,0 +1,40 @@
+{
+  "name": "crank",
+  "version": "0.2.0",
+  "pkg-version": 1,
+  "extra": null,
+  "meta": {
+    "authors": [
+      "Tyler Swann <tyler.swann05@gmail.com>"
+    ],
+    "description": "A small state management framework in C++\n",
+    "documentation": "https://github.com/oraqlle/crank/tree/main/docs",
+    "license": "MIT",
+    "readme": "README.md",
+    "repository": "https://github.com/oraqlle/crank"
+  },
+  "libraries": [
+    {
+      "name": "crank",
+      "path": ".",
+      "using": [],
+      "test-using": [],
+      "dependencies": [],
+      "test-dependencies": [
+        {
+          "name": "catch2",
+          "versions": [
+            {
+              "low": "2.13.9",
+              "high": "3.0.0"
+            }
+          ],
+          "using": [
+            "main"
+          ]
+        }
+      ]
+    }
+  ],
+  "schema-version": 0
+}
