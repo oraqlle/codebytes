@@ -1,15 +1,15 @@
 +++
-title = "Trove"
+title = "Code Bytes"
 
 
 # The homepage contents
 [extra]
-lead = '<b>Trove</b> a CRS is a packaging host for my personal C++ packages (using bpt), documentation host and blog site. (Under Construction at the moment).'
+lead = '<b>Code Bytes</b> Personal blog and source distribution website. (Under Construction at the moment).'
 url = "/browse/"
 url_button = "Browse"
 repo_version = "GitHub v0.1.0"
 repo_license = "Open-source MIT License."
-repo_url = "https://github.com/oraqlle/trove"
+repo_url = "https://github.com/oraqlle/codebytes"
 
 # Menu items
 [[extra.menu.main]]
