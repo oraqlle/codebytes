@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://codebytes.dev"
+base_url = "https://codebytes.netlify.app"
 title = "Code Bytes"
 description = "Tech blog and personal package sourced distribution"
 
