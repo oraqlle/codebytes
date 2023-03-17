@@ -22,7 +22,7 @@ weight = 10
 [[extra.menu.main]]
 name = "Projects"
 section = "projects"
-url = "/projects/overview/overview/"
+url = "/docs/overview/overview/"
 weight = 20
 
 [[extra.menu.main]]
