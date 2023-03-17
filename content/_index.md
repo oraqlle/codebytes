@@ -4,7 +4,7 @@ title = "CodeBytes"
 
 # The homepage contents
 [extra]
-lead = '<b>CodeBytes</b> - Blogs and other stuff by Oraqlle. (Under Construction at the moment).'
+lead = 'Blogs and other stuff by Oraqlle.<br>🚧 Under Construction 🚧'
 url = "/projects/overview/"
 url_button = "Browse Projects"
 repo_version = "GitHub v0.1.0"
