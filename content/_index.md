@@ -5,8 +5,8 @@ title = "CodeBytes"
 # The homepage contents
 [extra]
 lead = '<b>CodeBytes</b> - Blogs and other stuff by Oraqlle. (Under Construction at the moment).'
-url = "/browse/"
-url_button = "Browse"
+url = "/projects/overview/"
+url_button = "Browse Projects"
 repo_version = "GitHub v0.1.0"
 repo_license = "Open-source MIT License."
 repo_url = "https://github.com/oraqlle/codebytes"
@@ -22,14 +22,20 @@ weight = 10
 [[extra.menu.main]]
 name = "Projects"
 section = "projects"
-url = "/projects/overview/"
+url = "/projects/overview/overview/"
 weight = 20
 
 [[extra.menu.main]]
-name = "Contributing"
-section = "contributing"
-url = "/contributing/how-to-contribute/"
+name = "About"
+section = "about"
+url = "/about/"
 weight = 30
+
+[[extra.menu.main]]
+name = "FAQ"
+section = "faq"
+url = "/faq/"
+weight = 40
 
 [[extra.list]]
 title = "Security aware"

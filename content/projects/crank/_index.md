@@ -1,10 +1,10 @@
 +++
-title = "Help"
-description = "Get help on CodeBytes."
+title = "Crank"
+description = "Crank"
 date = 2023-03-17T19:42:00+00:00
 updated = 2023-03-17T19:42:00+00:00
-template = "docs/page.html"
+template = "section.html"
 sort_by = "weight"
-weight = 5
+weight = 2
 draft = false
 +++
