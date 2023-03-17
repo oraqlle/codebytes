@@ -1,24 +1,24 @@
 +++
 title = "How to Contribute"
-description = "Contribute to AdiDoks, improve documentation, or submit to showcase."
-date = 2021-05-01T18:10:00+00:00
-updated = 2021-05-01T18:10:00+00:00
-draft = false
+description = "Contribute to CodeBytes, improve documentation, or submit to showcase."
+date = 2023-03-17T19:42:00+00:00
+updated = 2023-03-17T19:42:00+00:00
+draft = true
 weight = 410
 sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-lead = "Contribute to AdiDoks, improve documentation, or submit to showcase."
+lead = "Contribute to CodeBytes, improve documentation, or submit to showcase."
 toc = true
 top = false
 +++
 
 👉 Make sure to read the [Code of Conduct](../code-of-conduct/).
 
-## Contribute to Doks
+## Contribute to CodeBytes
 
-👉 The AdiDoks code lives in the [`adidoks` repository](https://github.com/aaranxu/adidoks)
+👉 The CodeBytes source lives in the [codebytes repository](https://github.com/oraqlle/codebytes)
 
 - Follow the [GitHub flow](https://guides.github.com/introduction/flow/).
 - Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/)
@@ -30,8 +30,7 @@ top = false
 
 ## Improve documentation
 
-👉 The documentation lives in [`./content/docs/`](https://github.com/aaranxu/adidoks/tree/master/content/docs)
-of the [`adidoks` repository](https://github.com/h-enk/getdoks.org).
+👉 The documentation lives in...
 
 - Follow the [GitHub flow](https://guides.github.com/introduction/flow/).
 - Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/)

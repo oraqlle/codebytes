@@ -1,8 +1,8 @@
 +++
 title = "FAQ"
 description = "Answers to frequently asked questions."
-date = 2021-05-01T19:30:00+00:00
-updated = 2021-05-01T19:30:00+00:00
+date = 2023-03-16T17:35:00+00:00
+updated = 2023-03-16T17:35:00+00:00
 draft = false
 weight = 30
 sort_by = "weight"
@@ -14,11 +14,9 @@ toc = true
 top = false
 +++
 
-## What is the AdiDoks?
+## What is CodeBytes?
 
-AdiDoks is a Zola theme for Documentation's sites, ported by the Hugo Theme
-[Doks](https://getdoks.org), which is a pretty nice theme. Thanks a lot to 
-[*h-enk*](https://github.com/h-enk), the creator of the [Doks](https://getdoks.org).
+A thing.
 
 ## Keyboard shortcuts for search?
 
@@ -34,6 +32,6 @@ AdiDoks is a Zola theme for Documentation's sites, ported by the Hugo Theme
 
 ## Contact the creator?
 
-Send *Aaran Xu* an E-mail:
+Send *Oraqlle* an E-mail:
 
-- <aaranxu@outlook.com>
+- <name@example.com>

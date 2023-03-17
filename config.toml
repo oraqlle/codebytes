@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://codebytes.netlify.app"
-title = "Code Bytes"
+title = "CodeBytes"
 description = "Tech blog and personal package sourced distribution"
 
 # The site theme to use.
@@ -104,16 +104,22 @@ site_links_search_box = false
 
 # Menu items
 [[extra.menu.main]]
-name = "Docs"
-section = "docs"
-url = "/docs/getting-started/introduction/"
-weight = 10
-
-[[extra.menu.main]]
 name = "Blog"
 section = "blog"
 url = "/blog/"
+weight = 10
+
+[[extra.menu.main]]
+name = "Projects"
+section = "projects"
+url = "/projects/overview/"
 weight = 20
+
+[[extra.menu.main]]
+name = "Contributing"
+section = "contributing"
+url = "/contributing/how-to-contribute/"
+weight = 30
 
 [[extra.menu.social]]
 name = "Twitter"
@@ -139,5 +145,5 @@ weight = 10
 
 [[extra.footer.nav]]
 name = "Code of Conduct"
-url = "/docs/contributing/code-of-conduct/"
+url = "/contributing/code-of-conduct/"
 weight = 20
