@@ -43,4 +43,12 @@ content = 'An infinite state management framework built in C++. <a href="https:/
 title = "SV 📊"
 content = 'A sorting algorithm visualizer using SFML and written in C++. <a href="https://codebytes.netlify.app/docs/projects/sv">Project Page</a>'
 
+[[extra.list]]
+title = "Lispy 🛠️"
+content = 'Lispy interpreter written in C. <a href="https://codebytes.netlify.app/docs/projects/lispy-c">Project Page</a>'
+
+[[extra.list]]
+title = "Pong 🕹️"
+content = 'Pong written in SFML and C++. <a href="https://codebytes.netlify.app/docs/projects/pong">Project Page</a>'
+
 +++

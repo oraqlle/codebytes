@@ -18,7 +18,7 @@ top = false
 
 This part of the site serves a portfolio of any an all projects I have worked on, both my own and projects I have contributed to. I have built many things from games and simulation tools to programming languages and websites.
 
-### What I'm Currently Working On
+### Current Work
 
 - [Cortex Library - GitHub](https://github.com/oraqlle/cortexlib) - A library of various types, classes, functions and other general purpose utilities for C++.
 - [Pong - GitHub](https://github.com/oraqlle/pong)
