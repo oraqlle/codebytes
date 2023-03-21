@@ -37,10 +37,10 @@ content = 'In my most recent post I explore... Check it out!'
 
 [[extra.list]]
 title = "Crank ⚙️"
-content = 'An infinite state management framework built in C++. <a href="https://codebytes.netlify.app/docs/crank/crank">Project Page</a>'
+content = 'An infinite state management framework built in C++. <a href="https://codebytes.netlify.app/docs/projects/crank/">Project Page</a>'
 
 [[extra.list]]
 title = "SV 📊"
-content = 'A sorting algorithm visualizer using SFML and written in C++. <a href="https://codebytes.netlify.app/docs/sv/sv">Project Page</a>'
+content = 'A sorting algorithm visualizer using SFML and written in C++. <a href="https://codebytes.netlify.app/docs/projects/sv">Project Page</a>'
 
 +++
