@@ -47,8 +47,8 @@ bpt build -t build.yaml -o build
 {0 1 1 2 3 5 8 13 21 34}
 ```
 
+- [Lispy - GitHub](https://github.com/oraqlle/lispy)
+
 ## Credit
 
 Lispy is built from the language created by Daniel Holden in his [Build Your Own Lisp](https://www.buildyourownlisp.com/) Book/Blog. Most of the design of this implementation reflects that of the source code in his implementation. If you are interesting in creating your own programming language or even just learning C, I highly recommend giving it a read.
-
-- [Lispy - GitHub](https://github.com/oraqlle/lispy)
