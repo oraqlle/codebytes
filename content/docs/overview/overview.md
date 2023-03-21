@@ -2,7 +2,7 @@
 title = "Project Overview"
 description = "Overview of my personal projects."
 date = 2023-03-17T19:42:00+00:00
-updated = 2023-03-21T21:01:00+00:00
+updated = 2023-03-21T22:24:00+00:00
 draft = false
 weight = 2
 sort_by = "weight"
@@ -20,12 +20,12 @@ This part of the site serves a portfolio of any an all projects I have worked on
 
 ### What I'm Currently Working On
 
-- [Cortex Library](https://github.com/oraqlle/cortexlib) - A library of various types, classes, functions and other general purpose utilities for C++.
-- [Pong](https://github.com/oraqlle/pong)
-- 
+- [Cortex Library - GitHub](https://github.com/oraqlle/cortexlib) - A library of various types, classes, functions and other general purpose utilities for C++.
+- [Pong - GitHub](https://github.com/oraqlle/pong)
 
 ### Stable
 
-- [CodeBytes](https://github.com/oraqlle/codebytes) - This website!
-- [Crank](https://github.com/oraqlle/crank) - A state management framework.
-- [SV](https://github.com/oraqlle/sorting-visualizer) - A sorting algorithm visualizer.
+- [CodeBytes - GitHub](https://github.com/oraqlle/codebytes) - This website!
+- [Crank - GitHub](https://github.com/oraqlle/crank) - A state management framework.
+- [SV - GitHub](https://github.com/oraqlle/sorting-visualizer) - A sorting algorithm visualizer.
+- [Lispy Interpreter - GitHub](https://github.com/oraqlle/lispy)

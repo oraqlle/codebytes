@@ -1,8 +1,8 @@
 +++
-title = "Crank"
+title = "The Crank Framework"
 description = "A state management framework"
 date = 2023-03-17T19:42:00+00:00
-updated = 2023-03-21T21:01:00+00:00
+updated = 2023-03-21T22:32:00+00:00
 draft = false
 weight = 4
 sort_by = "weight"
@@ -13,8 +13,6 @@ lead = "A simple state management framework."
 toc = true
 top = false
 +++
-
-## The Crank Framework
 
 Crank is a simple state management framework built in vanilla C++. It allows you to create states that act like pages of an application and provides means to transition between pages.
 
