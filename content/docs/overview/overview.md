@@ -16,4 +16,16 @@ top = false
 
 ## Projects
 
-Stuff......
+This part of the site serves a portfolio of any an all projects I have worked on, both my own and projects I have contributed to. I have built many things from games and simulation tools to programming languages and websites.
+
+### What I'm Currently Working On
+
+- [Cortex Library](https://github.com/oraqlle/cortexlib) - A library of various types, classes, functions and other general purpose utilities for C++.
+- [Pong](https://github.com/oraqlle/pong)
+- 
+
+### Stable
+
+- [CodeBytes](https://github.com/oraqlle/codebytes) - This website!
+- [Crank](https://github.com/oraqlle/crank) - A state management framework.
+- [SV](https://github.com/oraqlle/sorting-visualizer) - A sorting algorithm visualizer.
