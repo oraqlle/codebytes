@@ -2,10 +2,9 @@
 title = "SV"
 description = "Sorting Algorithm Visualizer"
 date = 2023-03-17T19:42:00+00:00
-updated = 2023-03-21T22:31:00+00:00
+updated = 2023-03-26T14:12:00+00:00
 draft = false
-weight = 5
-sort_by = "weight"
+sort_by = "title"
 template = "docs/page.html"
 
 [extra]

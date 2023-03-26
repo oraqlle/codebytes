@@ -36,6 +36,10 @@ title = "Latest Blog Post 📖"
 content = 'In my most recent post I explore... Check it out!'
 
 [[extra.list]]
+title = "Cortex Library 🚀"
+content = 'A library of general purpose types, classes, functions, algorithms, utilities and other components for C++. <a href="https://codebytes.netlify.app/docs/projects/cortexlib/">Project Page</a>'
+
+[[extra.list]]
 title = "Crank ⚙️"
 content = 'An infinite state management framework built in C++. <a href="https://codebytes.netlify.app/docs/projects/crank/">Project Page</a>'
 

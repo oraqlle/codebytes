@@ -1,11 +1,10 @@
 +++
-title = "The Crank Framework"
+title = "Crank Framework"
 description = "A state management framework"
 date = 2023-03-17T19:42:00+00:00
-updated = 2023-03-21T22:32:00+00:00
+updated = 2023-03-26T14:12:00+00:00
 draft = false
-weight = 4
-sort_by = "weight"
+sort_by = "title"
 template = "docs/page.html"
 
 [extra]
@@ -18,7 +17,7 @@ Crank is a simple state management framework built in vanilla C++. It allows you
 
 Crank is designed to by as simple as possible and only provides a runtime framework for managing states. It is not designed to be able to render images/displays or handle other forms of processing. This is implemented by the user by whatever means they choose.
 
-Crank is built using the [bpt](https://bpt.pizza) build tool and can be hosted here.
+Crank is built using the [bpt](https://bpt.pizza) build tool and is hosted here.
 
 - [GitHub](https://github.com/oraqlle/crank)
 - [Docs - 🚧 Under Construction 🚧](...)
