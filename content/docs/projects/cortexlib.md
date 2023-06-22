@@ -2,7 +2,7 @@
 title = "Cortex Library"
 description = "A library of general purpose types, classes, functions, algorithms, utilities and other components for C++."
 date = 2023-03-26T14:12:00+00:00
-updated = 2023-03-26T14:12:00+00:00
+updated = 2023-06-22T16:00:00+00:00
 draft = false
 sort_by = "title"
 template = "docs/page.html"
@@ -57,3 +57,4 @@ Cortex's utilities library contains various general purpose utility objects and 
 
 - `cxl::utils::match` - A visitor object type allowing for conditional access to a `std::variant`.
 - `cxl::utils::match_any` - A type which acts as the base fallthrough match for a match expression.
+

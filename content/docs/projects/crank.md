@@ -1,8 +1,8 @@
 +++
 title = "Crank Framework"
-description = "A state management framework"
+description = "A state management framework."
 date = 2023-03-17T19:42:00+00:00
-updated = 2023-03-26T14:12:00+00:00
+updated = 2023-06-22T16:00:00+00:00
 draft = false
 sort_by = "title"
 template = "docs/page.html"

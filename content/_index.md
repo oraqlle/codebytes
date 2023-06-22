@@ -52,7 +52,7 @@ title = "Lispy 🛠️"
 content = 'Lispy interpreter written in C. <a href="https://codebytes.netlify.app/docs/projects/lispy-c">Project Page</a>'
 
 [[extra.list]]
-title = "Pong 🕹️"
-content = 'Pong written in SFML and C++. <a href="https://codebytes.netlify.app/docs/projects/pong">Project Page</a>'
+title = "2048 🧮"
+content = '2048 written in various languages including Rust and Elixir. <a href="https://codebytes.netlify.app/docs/projects/2048">Project Page</a>'
 
 +++
