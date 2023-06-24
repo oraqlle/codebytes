@@ -19,20 +19,20 @@ Simple Pong game written in C++ using SFML, Crank and built using Meson. This pr
 
 ### Main Game
 
-![Main Game](./imgs/pong/main-game.png)
+<img src="/imgs/projects/pong/main-game.png" alt="Main game screenshot" width="400" height="200">
 
 ### Start Screen
 
-![Start Screen](./imgs/pong/start-screen.png)
+<img src="/imgs/projects/pong/start-screen.png" alt="Start screen screenshot" width="400" height="200">
 
 ### Main Game Start
 
-![Main Game Start Screen](./imgs/pong/main-game-start.png)
+<img src="/imgs/projects/pong/main-game-start.png" alt="Main game, round start screenshot" width="400" height="200">
 
 ### Pause Menu
 
-![Pause Menu](./imgs/pong/pause-menu.png)
+<img src="/imgs/projects/pong/pause-menu.png" alt="Pause menu screenshot" width="400" height="200">
 
 ### Controls Menu
 
-![Control Menu](./imgs/pong/controls-menu.png)
+<img src="/imgs/projects/pong/control-menu.png" alt="Control menu screenshot" width="400" height="200">
