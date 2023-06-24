@@ -7,7 +7,7 @@ title = "CodeBytes"
 lead = 'Blogs, projects and other stuff by Oraqlle.'
 url = "/docs/overview/overview"
 url_button = "Browse Projects"
-repo_version = "GitHub v1.0.0"
+repo_version = "GitHub v1.1.0"
 repo_license = "Open-source MIT License."
 repo_url = "https://github.com/oraqlle/codebytes"
 
