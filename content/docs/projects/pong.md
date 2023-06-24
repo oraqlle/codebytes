@@ -13,6 +13,26 @@ toc = true
 top = false
 +++
 
-## Pong
+Simple Pong game written in C++ using SFML, Crank and built using Meson. This project is pretty hacky and mostly serves as a project to test the usage of the Crank state framework.
 
-~
+## Screen Shots
+
+### Main Game
+
+![Main Game](./imgs/pong/main-game.png)
+
+### Start Screen
+
+![Start Screen](./imgs/pong/start-screen.png)
+
+### Main Game Start
+
+![Main Game Start Screen](./imgs/pong/main-game-start.png)
+
+### Pause Menu
+
+![Pause Menu](./imgs/pong/pause-menu.png)
+
+### Controls Menu
+
+![Control Menu](./imgs/pong/controls-menu.png)
